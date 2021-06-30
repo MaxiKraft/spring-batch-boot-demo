@@ -1,0 +1,101 @@
+id;displayName;netPriceFormatted;category;playerBrand
+1;Tennischläger: Novak Djokovic;246,00;Tennischläger;Novak Djokovic
+2;Schuhe: Novak Djokovic;221,40;Schuhe;Novak Djokovic
+3;Tasche: Novak Djokovic;196,80;Tasche;Novak Djokovic
+4;T-Shirt: Novak Djokovic;172,20;T-Shirt;Novak Djokovic
+5;Schweissband: Novak Djokovic;147,60;Schweissband;Novak Djokovic
+6;Tennischläger: Daniil Medvedev;233,70;Tennischläger;Daniil Medvedev
+7;Schuhe: Daniil Medvedev;210,33;Schuhe;Daniil Medvedev
+8;Tasche: Daniil Medvedev;186,96;Tasche;Daniil Medvedev
+9;T-Shirt: Daniil Medvedev;163,59;T-Shirt;Daniil Medvedev
+10;Schweissband: Daniil Medvedev;140,22;Schweissband;Daniil Medvedev
+11;Tennischläger: Rafael Nadal;221,40;Tennischläger;Rafael Nadal
+12;Schuhe: Rafael Nadal;199,26;Schuhe;Rafael Nadal
+13;Tasche: Rafael Nadal;177,12;Tasche;Rafael Nadal
+14;T-Shirt: Rafael Nadal;154,98;T-Shirt;Rafael Nadal
+15;Schweissband: Rafael Nadal;132,84;Schweissband;Rafael Nadal
+16;Tennischläger: Stefanos Tsitsipas;209,10;Tennischläger;Stefanos Tsitsipas
+17;Schuhe: Stefanos Tsitsipas;188,19;Schuhe;Stefanos Tsitsipas
+18;Tasche: Stefanos Tsitsipas;167,28;Tasche;Stefanos Tsitsipas
+19;T-Shirt: Stefanos Tsitsipas;146,37;T-Shirt;Stefanos Tsitsipas
+20;Schweissband: Stefanos Tsitsipas;125,46;Schweissband;Stefanos Tsitsipas
+21;Tennischläger: Dominic Thiem;196,80;Tennischläger;Dominic Thiem
+22;Schuhe: Dominic Thiem;177,12;Schuhe;Dominic Thiem
+23;Tasche: Dominic Thiem;157,44;Tasche;Dominic Thiem
+24;T-Shirt: Dominic Thiem;137,76;T-Shirt;Dominic Thiem
+25;Schweissband: Dominic Thiem;118,08;Schweissband;Dominic Thiem
+26;Tennischläger: Alexander Zverev;184,50;Tennischläger;Alexander Zverev
+27;Schuhe: Alexander Zverev;166,05;Schuhe;Alexander Zverev
+28;Tasche: Alexander Zverev;147,60;Tasche;Alexander Zverev
+29;T-Shirt: Alexander Zverev;129,15;T-Shirt;Alexander Zverev
+30;Schweissband: Alexander Zverev;110,70;Schweissband;Alexander Zverev
+31;Tennischläger: Andrey Rublev;172,20;Tennischläger;Andrey Rublev
+32;Schuhe: Andrey Rublev;154,98;Schuhe;Andrey Rublev
+33;Tasche: Andrey Rublev;137,76;Tasche;Andrey Rublev
+34;T-Shirt: Andrey Rublev;120,54;T-Shirt;Andrey Rublev
+35;Schweissband: Andrey Rublev;103,32;Schweissband;Andrey Rublev
+36;Tennischläger: Roger Federer;159,90;Tennischläger;Roger Federer
+37;Schuhe: Roger Federer;143,91;Schuhe;Roger Federer
+38;Tasche: Roger Federer;127,92;Tasche;Roger Federer
+39;T-Shirt: Roger Federer;111,93;T-Shirt;Roger Federer
+40;Schweissband: Roger Federer;95,94;Schweissband;Roger Federer
+41;Tennischläger: Matteo Berrettini;147,60;Tennischläger;Matteo Berrettini
+42;Schuhe: Matteo Berrettini;132,84;Schuhe;Matteo Berrettini
+43;Tasche: Matteo Berrettini;118,08;Tasche;Matteo Berrettini
+44;T-Shirt: Matteo Berrettini;103,32;T-Shirt;Matteo Berrettini
+45;Schweissband: Matteo Berrettini;88,56;Schweissband;Matteo Berrettini
+46;Tennischläger: Roberto Bautista Agut;135,30;Tennischläger;Roberto Bautista Agut
+47;Schuhe: Roberto Bautista Agut;121,77;Schuhe;Roberto Bautista Agut
+48;Tasche: Roberto Bautista Agut;108,24;Tasche;Roberto Bautista Agut
+49;T-Shirt: Roberto Bautista Agut;94,71;T-Shirt;Roberto Bautista Agut
+50;Schweissband: Roberto Bautista Agut;81,18;Schweissband;Roberto Bautista Agut
+51;Tennischläger: Diego Schwartzman;123,00;Tennischläger;Diego Schwartzman
+52;Schuhe: Diego Schwartzman;110,70;Schuhe;Diego Schwartzman
+53;Tasche: Diego Schwartzman;98,40;Tasche;Diego Schwartzman
+54;T-Shirt: Diego Schwartzman;86,10;T-Shirt;Diego Schwartzman
+55;Schweissband: Diego Schwartzman;73,80;Schweissband;Diego Schwartzman
+56;Tennischläger: Denis Shapovalov;110,70;Tennischläger;Denis Shapovalov
+57;Schuhe: Denis Shapovalov;99,63;Schuhe;Denis Shapovalov
+58;Tasche: Denis Shapovalov;88,56;Tasche;Denis Shapovalov
+59;T-Shirt: Denis Shapovalov;77,49;T-Shirt;Denis Shapovalov
+60;Schweissband: Denis Shapovalov;66,42;Schweissband;Denis Shapovalov
+61;Tennischläger: Pablo Carreño Busta;98,40;Tennischläger;Pablo Carreño Busta
+62;Schuhe: Pablo Carreño Busta;88,56;Schuhe;Pablo Carreño Busta
+63;Tasche: Pablo Carreño Busta;78,72;Tasche;Pablo Carreño Busta
+64;T-Shirt: Pablo Carreño Busta;68,88;T-Shirt;Pablo Carreño Busta
+65;Schweissband: Pablo Carreño Busta;59,04;Schweissband;Pablo Carreño Busta
+66;Tennischläger: Casper Ruud;86,10;Tennischläger;Casper Ruud
+67;Schuhe: Casper Ruud;77,49;Schuhe;Casper Ruud
+68;Tasche: Casper Ruud;68,88;Tasche;Casper Ruud
+69;T-Shirt: Casper Ruud;60,27;T-Shirt;Casper Ruud
+70;Schweissband: Casper Ruud;51,66;Schweissband;Casper Ruud
+71;Tennischläger: David Goffin;73,80;Tennischläger;David Goffin
+72;Schuhe: David Goffin;66,42;Schuhe;David Goffin
+73;Tasche: David Goffin;59,04;Tasche;David Goffin
+74;T-Shirt: David Goffin;51,66;T-Shirt;David Goffin
+75;Schweissband: David Goffin;44,28;Schweissband;David Goffin
+76;Tennischläger: Gaël Monfils;61,50;Tennischläger;Gaël Monfils
+77;Schuhe: Gaël Monfils;55,35;Schuhe;Gaël Monfils
+78;Tasche: Gaël Monfils;49,20;Tasche;Gaël Monfils
+79;T-Shirt: Gaël Monfils;43,05;T-Shirt;Gaël Monfils
+80;Schweissband: Gaël Monfils;36,90;Schweissband;Gaël Monfils
+81;Tennischläger: Hubert Hurkacz;49,20;Tennischläger;Hubert Hurkacz
+82;Schuhe: Hubert Hurkacz;44,28;Schuhe;Hubert Hurkacz
+83;Tasche: Hubert Hurkacz;39,36;Tasche;Hubert Hurkacz
+84;T-Shirt: Hubert Hurkacz;34,44;T-Shirt;Hubert Hurkacz
+85;Schweissband: Hubert Hurkacz;29,52;Schweissband;Hubert Hurkacz
+86;Tennischläger: Alex de Minaur;36,90;Tennischläger;Alex de Minaur
+87;Schuhe: Alex de Minaur;33,21;Schuhe;Alex de Minaur
+88;Tasche: Alex de Minaur;29,52;Tasche;Alex de Minaur
+89;T-Shirt: Alex de Minaur;25,83;T-Shirt;Alex de Minaur
+90;Schweissband: Alex de Minaur;22,14;Schweissband;Alex de Minaur
+91;Tennischläger: Félix Auger-Aliassime;24,60;Tennischläger;Félix Auger-Aliassime
+92;Schuhe: Félix Auger-Aliassime;22,14;Schuhe;Félix Auger-Aliassime
+93;Tasche: Félix Auger-Aliassime;19,68;Tasche;Félix Auger-Aliassime
+94;T-Shirt: Félix Auger-Aliassime;17,22;T-Shirt;Félix Auger-Aliassime
+95;Schweissband: Félix Auger-Aliassime;14,76;Schweissband;Félix Auger-Aliassime
+96;Tennischläger: Cristian Garín;12,30;Tennischläger;Cristian Garín
+97;Schuhe: Cristian Garín;11,07;Schuhe;Cristian Garín
+98;Tasche: Cristian Garín;9,84;Tasche;Cristian Garín
+99;T-Shirt: Cristian Garín;8,61;T-Shirt;Cristian Garín
+100;Schweissband: Cristian Garín;7,38;Schweissband;Cristian Garín
